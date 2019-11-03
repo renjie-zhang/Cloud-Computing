@@ -1,5 +1,5 @@
 # 云计算学习笔记
-![](D:\Code\Goalng-Note\images\GopherKubernetes.png)
+![](https://github.com/renjie-zhang/Cloud-Computing/blob/master/images/GopherKubernetes.png)
 
 在学习过程中，总是有些细节的东西需要记录，有时写在笔记本中，有时有写在微信收藏中，但是很少有一个总结与归纳。在无意之中发现GitBook，首先尝试的线上版本，当时因为网络，体验不太好，最终选择离线版本。
 
