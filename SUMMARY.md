@@ -5,5 +5,9 @@
 
 ## 基础概念
 
-* [什么是kubernetes](ji-chu-gai-nian/shen-me-shi-kubernetes.md)
+* [kubernetes是什么](ji-chu-gai-nian/shen-me-shi-kubernetes.md)
+* [Master](ji-chu-gai-nian/master.md)
+* [Node](ji-chu-gai-nian/node.md)
+* [Pod](ji-chu-gai-nian/pod.md)
+* [RC](ji-chu-gai-nian/rc.md)
 
