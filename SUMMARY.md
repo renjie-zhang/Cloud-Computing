@@ -9,5 +9,8 @@
 * [Master](ji-chu-gai-nian/master.md)
 * [Node](ji-chu-gai-nian/node.md)
 * [Pod](ji-chu-gai-nian/pod.md)
-* [RC](ji-chu-gai-nian/rc.md)
+* [Deployment](ji-chu-gai-nian/rc.md)
+* [StatefulSet](ji-chu-gai-nian/statefulset.md)
+* [Service](ji-chu-gai-nian/service.md)
+* [Volume](ji-chu-gai-nian/volume.md)
 
