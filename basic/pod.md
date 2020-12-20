@@ -1,6 +1,2 @@
----
-description: 这是pod
----
-
-# Pod
+# kubernetes的基本概念
 
