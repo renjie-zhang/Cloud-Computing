@@ -6,5 +6,5 @@
 
 * [kubernetes是什么](basic/what-is-kubernetes.md)
 * [kubernetes的基本概念](basic/basic-concept.md)
-* [理解Kubernetes的设计模式](basic/li-jie-kubernetes-de-she-ji-mo-shi.md)
+* [理解Kubernetes的设计模式](basic/understanding-design.md)
 
